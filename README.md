@@ -9,8 +9,9 @@ xLSTM means (scalar) sLSTM and mLSTM.
 
 ## Papers
 
- - The Original xLSTM Paper: [xLSTM: Extended Long Short-Term Memory (https://arxiv.org/abs/2405.04517)](https://arxiv.org/abs/2405.04517) (2024)
-- The paper for LSTM: [Long Short-Term Memory (https://www.bioinf.jku.at/publications/older/2604.pdf)](https://www.bioinf.jku.at/publications/older/2604.pdf) (1997)
+ - The xLSTM Paper: [xLSTM: Extended Long Short-Term Memory (https://arxiv.org/abs/2405.04517)](https://arxiv.org/abs/2405.04517) (2024)
+- The Original paper for LSTM: [Long Short-Term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf) (1997), by Sepp Hochreiter and Jürgen Schmidhuber.
+  - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), by Christopher Olah as another good refreshment on LSTM.
 
 
 ## Summaries
