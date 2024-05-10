@@ -5,7 +5,7 @@ A curated list of resources for xLSTM (Extended Long Short-Term Memory) and rela
 # what is xLSTM?
 In the 1990s, Long Short-Term Memory (LSTM) networks introduced crucial features such as error carousels and gating, leading to their significant impact on the development of large language models. Despite their early success, LSTMs were overshadowed by the advent of Transformer technology, which features scalable parallel processing due to its self-attention mechanisms. Addressing this, recent innovations have introduced modifications to the traditional LSTM design, including the development of sLSTM, which simplifies memory management to a scalar level, and mLSTM, which fully parallelizes the LSTM structure with a matrix memory and a covariance update rule. These enhancements aim to boost LSTMs' scalability and performance, enabling them to compete with contemporary models like Transformers.
 
-xLSTM means (scalar) sLSTM and mLSTM. 
+xLSTM means (scalar) sLSTM and (matrix) mLSTM. 
 
 ## Papers
 
