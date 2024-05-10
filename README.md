@@ -21,7 +21,7 @@ xLSTM means (scalar) sLSTM and (matrix) mLSTM.
 ## Implementations (Most of them are unofficial and under development)
 - Official: **They have not provided the code yet**.
 - [https://github.com/andrewgcodes/xlstm](https://github.com/andrewgcodes/xlstm)
-- [https://github.com/muditbhargava66/PyxLSTM](https://github.com/muditbhargava66/PyxLSTM) (seems to be complete)
+- [https://github.com/muditbhargava66/PyxLSTM](https://github.com/muditbhargava66/PyxLSTM)
 - [https://github.com/myscience/x-lstm](https://github.com/myscience/x-lstm)
 - [https://github.com/kyegomez/xLSTM](https://github.com/kyegomez/xLSTM)
 - [https://github.com/akaashdash/xlstm](https://github.com/akaashdash/xlstm)
